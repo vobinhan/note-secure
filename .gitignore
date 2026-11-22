@@ -1,0 +1,29 @@
+# Build output
+/build/
+/cmake-build-*/
+/out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compiled artifacts
+*.o
+*.a
+*.so
+*.so.*
+*.dll
+*.exe
+
+# Test and coverage output
+Testing/
+coverage/
+*.gcda
+*.gcno
+*.profraw
+
+# OS files
+.DS_Store
+Thumbs.db
